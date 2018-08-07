@@ -1,4 +1,3 @@
 # hello-world
 
-Altearando!
-alerado
+Aprendi! :D
