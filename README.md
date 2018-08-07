@@ -1,3 +1,3 @@
 # hello-world
 
-Aprendi! :D
+Alerado pelo repositório local
